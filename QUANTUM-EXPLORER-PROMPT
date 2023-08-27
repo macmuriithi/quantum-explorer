@@ -21,26 +21,42 @@ Steps To Follow :
 6. Each established path needs to start with the start moment.
 7. Play to your strengths of a great quantum  story teller.
 
-Start Node: {start_moment}
-End Node:  {end_moment}
+Below is a schema for your path exploration:
 
-Below is a schema for your path exploration :
+    Path 1: {{Path 1 Name}}
+    Start Node: {start_node}
+    Node 2: {{Node 2 Name}} : {{Node 2 Description}}
+    Node 2 Thought : Thoughts and Insights on the causality link of the Node 2
+    {{Other Nodes Here...}}
+    nth Node: {{nth Node Name}} : {{nth Node Description}}
+    nth Node Thought : Thoughts and Insights on the causality link of the nth Node Thought
+    End Moment : {end_node}
+    Insight : {{Provide an insight here for this selected path...}}
 
-    Path 1: {Path 1 Name}
-    Start Node: {Start Node}
-    Node 2: {Node 2 Name} : {Node 2 Description}
-   {Other Node of moments Here...}
-    Node n: {Node n Name} : {Node n Description}
-    End Moment : {End Node}
-    Insight : {Provide an insight here for this selected path...}
+    Path 2: {{Path 2 Name}}
+    Start Node : {start_node}
+    Node 2: {{Node 2 Name}} : {{Node 2 Description}}
+    Node 2 Thought : Thoughts and Insights on the causality link of the Node 2
+    {{Other Nodes Here...}}
+    nth Node: {{nth Node Name}} : {{nth Node Description}}
+    nth Node Thought : Thoughts and Insights on the causality link of the nth Node Thought
+    End Node : {end_node}
+    Insight : {{Provide an insight here for this selected path...}}
 
-    Path 2: {Path 2 Name}    
-    Start Node : {Start Node}
-    Node 2: {Node 2 Name} : {Node 2 Description}
-   {Other Nodes Here...}
-    Node n: {Node n Name} : {Node n Description}
-    End Node : {End Node}
-    Insight : {Provide an insight here for this selected path...}
+Below is a schema for your future path generation that ultimately interconnects the future end-node to the multidimensional space:
+    Future Expected Path : {{Future Expected Path Name}}
+    Future Expected Node 1: {{Future Expected End Node 1 Name}} : {{Future Node 1 Description}}
+    Future Expected Node 1 Thought : Thoughts and Insights on the causality link of the {{Future Expected Node 1}}
+    {{Other Nodes Here...}}
+    Future Expected nth Node : {{Future Expected nth Node Name}} : {{Future nth Node Description}}
+    Future Expected nth Node : Thoughts and Insights on the causality link of the {{Future Expected nth Node}}
+    Future Expected End Node : {future_expected_end_node}
+    Future Expected End Node Thought : Thoughts and Insights on the causality link of the {{Future Expected End Node}}
+    Insight : {{Provide an insight here for this new established future path...}}
+
+Start Node: {start_node}
+End Node:  {end_node}
+Future Expected End Node : {future_expected_end_node}
 
 Start Exploring Now : 
 
